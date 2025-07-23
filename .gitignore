@@ -1,0 +1,29 @@
+# Node
+node_modules/
+.env
+*.log
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.env/
+*.sqlite3
+
+# Docker
+*.pid
+*.sock
+*.db
+*.tar
+*.gz
+*.swp
+docker-compose.override.yml
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
