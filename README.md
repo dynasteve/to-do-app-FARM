@@ -345,14 +345,6 @@ The compose setup automatically:
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## Future Enhancements
-
-- [ ] User authentication and authorization
-- [ ] Real-time updates with WebSockets
-- [ ] Task due dates and priorities
-- [ ] Task categories and tags
-- [ ] Data export/import functionality
-- [ ] Mobile responsive design improvements
 
 ---
 
